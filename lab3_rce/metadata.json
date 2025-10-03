@@ -1,0 +1,5 @@
+{
+  "name": "COEN-296 Lab 3 (RCE)",
+  "description": "An interactive lab to learn about Remote Code Execution (RCE) vulnerabilities in Python web applications. Use Gemini to analyze vulnerable code, understand exploits, and learn mitigation techniques.",
+  "requestFramePermissions": []
+}
