@@ -1,0 +1,5 @@
+{
+  "name": "COEN-296 Lab 4 (Agentic Browser)",
+  "description": "An interactive lab demonstrating prompt injection and data exfiltration vulnerabilities in an agentic browser, and how to defend against them.",
+  "requestFramePermissions": []
+}
